@@ -3,7 +3,8 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"urlmetadata"
+
+	"github.com/ariefsn/urlmetadata"
 )
 
 func main() {

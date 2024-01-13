@@ -1,4 +1,4 @@
-module urlmetadata
+module github.com/ariefsn/urlmetadata
 
 go 1.21.4
 
